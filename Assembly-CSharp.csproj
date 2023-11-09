@@ -12,7 +12,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{6815de3a-f73c-87d2-64d5-b147f2511a55}</ProjectGuid>
+    <ProjectGuid>{38f4b541-0ff9-ec8b-9873-c1f54bad1e45}</ProjectGuid>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -26,7 +26,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp\Bin\Debug\Assembly-CSharp\</OutputPath>
-    <DefineConstants>UNITY_2021_3_19;UNITY_2021_3;UNITY_2021;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;PLATFORM_STANDALONE;TEXTCORE_1_0_OR_NEWER;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_NVIDIA;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_STANDARD_2_0;NET_STANDARD;NET_STANDARD_2_1;NETSTANDARD;NETSTANDARD2_1;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <DefineConstants>UNITY_2021_3_19;UNITY_2021_3;UNITY_2021;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;PLATFORM_STANDALONE;TEXTCORE_1_0_OR_NEWER;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_NVIDIA;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_STANDARD_2_0;NET_STANDARD;NET_STANDARD_2_1;NETSTANDARD;NETSTANDARD2_1;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;UNITY_POST_PROCESSING_STACK_V2;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169,0649</NoWarn>
@@ -41,17 +41,458 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Script\CameraCtl.cs" />
-     <Compile Include="Assets\Script\PlayerCtl.cs" />
-     <Compile Include="Assets\Script\GameCtl.cs" />
+     <Compile Include="Assets\Epic Toon FX\Scripts\ETFXPitchRandomizer.cs" />
+     <Compile Include="Assets\Epic Toon FX\Demo\Scripts\ETFXFireProjectile.cs" />
+     <Compile Include="Assets\Epic Toon FX\Demo\Scripts\ETFXButtonScript.cs" />
+     <Compile Include="Assets\Epic Toon FX\Scripts\ETFXLightFade.cs" />
+     <Compile Include="Assets\Epic Toon FX\Demo\Scripts\VFX Library\ParticleEffectsLibrary.cs" />
+     <Compile Include="Assets\UnityTechnologies\ParticlePack\Shared\Scripts\ProximityActivate.cs" />
+     <Compile Include="Assets\Epic Toon FX\Demo\Scripts\ETFXMouseOrbit.cs" />
+     <Compile Include="Assets\_Game\Script\Road.cs" />
+     <Compile Include="Assets\Epic Toon FX\Demo\Scripts\ETFXTarget.cs" />
+     <Compile Include="Assets\Epic Toon FX\Scripts\ETFXRotation.cs" />
+     <Compile Include="Assets\_Game\Script\GameCtl.cs" />
+     <Compile Include="Assets\UnityTechnologies\ParticlePack\Shared\Ramps\Runtime\RampAsset.cs" />
+     <Compile Include="Assets\UnityTechnologies\ParticlePack\Shared\Scripts\SimpleCameraController.cs" />
+     <Compile Include="Assets\Epic Toon FX\Demo\Scripts\ETFXSceneManager.cs" />
+     <Compile Include="Assets\_Game\Script\Extension.cs" />
+     <Compile Include="Assets\Epic Toon FX\Demo\Scripts\VFX Library\PEButtonScript.cs" />
+     <Compile Include="Assets\Epic Toon FX\Demo\Scripts\ETFXLoopScript.cs" />
+     <Compile Include="Assets\UnityTechnologies\ParticlePack\Shared\Scripts\SimpleCharacterMotor.cs" />
+     <Compile Include="Assets\_Game\Script\CameraCtl.cs" />
+     <Compile Include="Assets\UnityTechnologies\ParticlePack\TutorialInfo\Scripts\Readme.cs" />
+     <Compile Include="Assets\Epic Toon FX\Demo\Scripts\VFX Library\UICanvasManager.cs" />
+     <Compile Include="Assets\_Game\Script\PlayerCtl.cs" />
+     <Compile Include="Assets\UnityTechnologies\ParticlePack\Shared\Scripts\AdjustTimeScale.cs" />
+     <Compile Include="Assets\Epic Toon FX\Demo\Scripts\ETFXProjectileScript.cs" />
+     <Compile Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Misc Effects\Scripts\SpawnEffect.cs" />
      <Folder Include="Assets" />
-     <Folder Include="Assets\Script" />
-     <Folder Include="Assets\Animation" />
-     <Folder Include="Assets\Material" />
-     <Folder Include="Assets\Models" />
-     <Folder Include="Assets\Models\Remy\textures" />
-     <Folder Include="Assets\Scenes" />
-     <Folder Include="Assets\Models\Remy" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Water\Other" />
+     <Folder Include="Assets\Epic Toon FX\Sound" />
+     <Folder Include="Assets\_Game\Script" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Magic Effects\Models" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Interactive\Portals\SimplePortal" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Interactive\Loot\GlowOrb" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Interactive\Sparkle\SparkleArea" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Lightning\Sharp" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\Shared\Prefabs" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Stars\StarFogFlow" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Magic\Aura" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Water\Bubbles" />
+     <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMPro.cginc" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Sword\Slash\SwordSlashThin" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Interactive\Hearts" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Interactive\Loot\ChestAppear" />
+     <None Include="Assets\Epic Toon FX\Prefabs\Environment\Environment FX.txt" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Fire\Cartoon\Torch Intense" />
+     <Folder Include="Assets\Epic Toon FX\Demo\Scripts\VFX Library" />
+     <Folder Include="Assets\Epic Toon FX\Materials\Misc\Skulls" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Interactive\Loot" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Water\Flowing\Sharp" />
+     <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Misc Effects\Animations" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Muzzleflash\FrostMuzzle" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Flamethrower" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Interactive\Sparkle" />
+     <Folder Include="Assets\Epic Toon FX\Demo\Scripts" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Magic Effects\Materials" />
+     <Folder Include="Assets\Sand textures pack" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Missiles\Fireball" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Muzzleflash\LightningMuzzle" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Smoke\White" />
+     <None Include="Assets\Epic Toon FX\Prefabs\Combat\Combat FX.txt" />
+     <Folder Include="Assets\Epic Toon FX\Demo\Missile Prefabs\Frost" />
+     <Folder Include="Assets\Tree9" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Interactive\Portals" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Missiles\Bullet" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Goop Effects\Prefabs" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Flamethrower\Cartoon" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Explosions\BulletExplosion" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Explosions\- Misc" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Interactive\Emojis" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Magic\Nova" />
+     <Folder Include="Assets\Epic Toon FX\Demo\Missile Prefabs\EnergyNovaSmall" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Magic\Aura Soft" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Explosions\SpikyExplosion" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Interactive" />
+     <Folder Include="Assets\Epic Toon FX\Materials\Misc\Liquid" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Fog" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Weather\Wind &amp; Leaves" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\Scenes\Main" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Nova\Fire" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Nova" />
+     <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Weather\Rain" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Muzzleflash\SparkleMuzzle" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Interactive\Zone" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Explosions\MegaExplosion" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Sword\Spin" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Interactive\Powerups\PowerOrbElemental" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Water Effects\Prefabs" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Missiles\Soul" />
+     <Folder Include="Assets\_Game\Prefabs" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Sword" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Interactive\Loot\ItemSkewedGlow" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Muzzleflash\SoulMuzzle" />
+     <Folder Include="Assets\Epic Toon FX\Demo\Missile Prefabs\Mystic" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Magic\Shield" />
+     <Folder Include="Assets\Epic Toon FX\Models\Materials" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Sword\Slash" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Misc" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\Shared" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Death\Skulls" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Magic\Field" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Interactive\Powerups" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Interactive\Zone\MagicZone" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Explosions\ShadowExplosion" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Weapon Effects\Materials" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Explosions\LightningExplosion" />
+     <Folder Include="Assets\Epic Toon FX\Demo\Materials" />
+     <Folder Include="Assets\Epic Toon FX\Materials\Basics" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Interactive\Powerups\PowerOrbSmall" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Goop Effects\Textures" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Sword\Hit\SwordHitMini" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Confetti\Shower" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Missiles\Sparkle" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Confetti\Blast" />
+     <Folder Include="Assets\Epic Toon FX\Materials\Misc\Emojis" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Misc Effects\Models" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Resources\Fonts &amp; Materials" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Firework" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Missiles\NovaSmall" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Brawling\Cartoony" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Missiles\NovaMissile" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Magic Effects\Textures" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Explosions\GlitterExplosion" />
+     <Folder Include="Assets\Road props for games\Prefabs" />
+     <Folder Include="Assets\Epic Toon FX\Materials" />
+     <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
+     <Folder Include="Assets\Epic Toon FX\Demo\Missile Prefabs\EnergyNova" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Muzzleflash\BulletFatMuzzle" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\BombFuse" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\Shared\Ramps\Runtime" />
+     <Folder Include="Assets\_Game\Animation" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Magic\Enchant" />
+     <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
+     <Folder Include="Assets\Epic Toon FX\Demo\Missile Prefabs\Bullet" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Interactive\Flares\Sharp" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Underwater" />
+     <Folder Include="Assets\Epic Toon FX\Materials\Misc\Emojis\Part 2" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Resources" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Explosions\NukeConeExplosion" />
+     <None Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Misc Effects\Prefabs\Readme_Dissolve_Respawn_.txt" />
+     <Folder Include="Assets\Epic Toon FX\Models" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Missiles\Laser" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Magic\Circle" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\Shared\Environment\Models" />
+     <Folder Include="Assets\Epic Toon FX\Demo\Missile Prefabs\Lightning" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Fire\Spiky\Additive" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Magic\Buff" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs 2D\Blood\Green" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Interactive\Trails" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Muzzleflash\- Misc\GunFire" />
+     <Folder Include="Assets\Epic Toon FX\Materials\Misc\Fire" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Missiles\Magic" />
+     <Folder Include="Assets\Epic Toon FX\Materials\Misc\Bubbles" />
+     <None Include="Assets\Road props for games\Documentation\Readmy.txt" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Muzzleflash\RocketMuzzle" />
+     <Folder Include="Assets\Epic Toon FX\Demo\Missile Prefabs\Gas" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Interactive\Portals\SoftPortal" />
+     <Folder Include="Assets\Epic Toon FX\Demo\Missile Prefabs" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Muzzleflash\MagicSoftMuzzle" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Interactive\Portals\SpinPortal" />
+     <Folder Include="Assets\Epic Toon FX\Materials\Misc\Emojis\Part 1" />
+     <Folder Include="Assets\Epic Toon FX\Demo\Missile Prefabs\Nuke" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Missiles\Mystic" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Fire\Soft\SoftFireAB" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Nova\Frost" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Sword\Hit\SwordHitCritical" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Magic\Sphere" />
+     <Folder Include="Assets\Epic Toon FX\Demo\Textures" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Interactive\Zone\SpinZone" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs 2D\Water" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Explosions\NovaSmallExplosion" />
+     <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
+     <Folder Include="Assets\_Game" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Explosions\StormExplosion" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Smoke &amp; Steam Effects" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Missiles\FatBullet" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Explosions\StarIntenseExplosion" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Fire &amp; Explosion Effects\Textures" />
+     <Folder Include="Assets\Epic Toon FX\Demo\Missile Prefabs\Shadow" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Interactive\Feathers" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs 2D" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Fire &amp; Explosion Effects\Materials" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Missiles\Rocket" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Interactive\Portals\VortexPortal" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\Scenes\Profiles" />
+     <Folder Include="Assets\Epic Toon FX\Materials\Misc\Stars" />
+     <Folder Include="Assets\Epic Toon FX\Materials\Misc\Text" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Explosions\RoundExplosion" />
+     <Folder Include="Assets\Epic Toon FX\Demo\Missile Prefabs\Grenade" />
+     <Folder Include="Assets\Epic Toon FX\Materials\Misc\Sword" />
+     <Folder Include="Assets\Epic Toon FX\Demo\Missile Prefabs\Soul" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Weapon Effects\Prefabs" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Explosions\SparkleExplosion" />
+     <Folder Include="Assets\Sand textures pack\Sand 01" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Explosions" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Explosions\GrenadeExplosion" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Interactive\Stars" />
+     <Folder Include="Assets\Sand textures pack\Sand 07" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Goop Effects" />
+     <Folder Include="Assets\Epic Toon FX\Demo\Missile Prefabs\Liquid" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Interactive\Powerups\PowerOrb" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Weapon Effects" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Sword\- Legacy\SwordHitLegacy" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Fireflies" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Missiles\MagicSoft" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\TutorialInfo\Scripts" />
+     <Folder Include="Assets\Epic Toon FX\Materials\Misc\Hearts" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs 2D\Blood" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Sword\Wave" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Sword\Hit\SwordHitMagic" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Water" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Interactive\Money\Coins" />
+     <None Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Magic Effects\Shaders\Ice.shader" />
+     <Folder Include="Assets\Epic Toon FX\Demo\Textures\Skybox" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Smoke" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Brawling\Stun" />
+     <Folder Include="Assets\Epic Toon FX\Materials\Misc\Decals" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Misc Effects\Textures" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Explosions\LaserExplosion" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Magic Effects" />
+     <Folder Include="Assets\Sand textures pack\Sand 02" />
+     <None Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Misc Effects\Shaders\Respawn.shader" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Explosions\SoulExplosion" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\TutorialInfo" />
+     <Folder Include="Assets\Road props for games\Meshes" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Lightning" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Muzzleflash\LaserMuzzle" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Sword\Whirlwind" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Smoke &amp; Steam Effects\Textures" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Explosions\MagicExplosion" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Water\Flowing\Soft" />
+     <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Blood\Green" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Shield" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Decals\Bullet Decal" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Blood" />
+     <None Include="Assets\Epic Toon FX\Prefabs\Interactive\Interactive FX.txt" />
+     <Folder Include="Assets\Road props for games" />
+     <Folder Include="Assets\Epic Toon FX" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs 2D\Water\Flowing" />
+     <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
+     <Folder Include="Assets\Epic Toon FX\Demo\Materials\Skybox" />
+     <Folder Include="Assets\Epic Toon FX\Demo\Missile Prefabs\Laser" />
+     <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_SDF.shader" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Magic Effects\Prefabs" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Water Effects\Textures" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Fog\White" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs 2D\Explosions" />
+     <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
+     <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+     <Folder Include="Assets\Epic Toon FX\Materials\Misc\Unsorted" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Interactive\Cards" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Confetti\Directional" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Decals" />
+     <Folder Include="Assets\Epic Toon FX\Demo\Materials\Bullet Surfaces" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs 2D\Weather" />
+     <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\Shared\Environment\Prefabs" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Stars" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Fire" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Muzzleflash" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Explosions\LiquidExplosion" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Muzzleflash\NukeMuzzle" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Lightning\Soft" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Explosions\FireballExplosion" />
+     <Folder Include="Assets\Sand textures pack\Sand 03" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Water\Boiling" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Goop Effects\Materials" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Sword\Hit" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Fire\Soft\SoftFireADD" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Flamethrower\Soft" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Brawling" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Missiles\Nuke" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Weather" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Muzzleflash\ShadowMuzzle" />
+     <Folder Include="Assets\Epic Toon FX\Demo\Missile Prefabs\Magic" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Interactive\Money\Bills" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Missiles" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Explosions\MysticExplosion" />
+     <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs 2D\Blood\Yellow" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Interactive\Emojis 2" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Explosions\NukeExplosion" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Fire\Cartoon\Field Intense" />
+     <Folder Include="Assets\Epic Toon FX\Materials\Misc\Magic" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Muzzleflash\EnergyNovaSmallMuzzle" />
+     <Folder Include="Assets\_Game\Material" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Interactive\Flares" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Resources\Style Sheets" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Fonts" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Interactive\Sparkle\SparkleSolo" />
+     <Folder Include="Assets\Sand textures pack\Sand 09" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Explosions\MagicSoftExplosion" />
+     <Folder Include="Assets\Epic Toon FX\Demo\Missile Prefabs\Storm" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\Shared\Environment\Textures" />
+     <Folder Include="Assets\Road props for games\Demo" />
+     <Folder Include="Assets\Epic Toon FX\Materials\Misc\Explosions" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Fire\Cartoon\Field" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Water Effects" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Sword\Hit\SwordHit" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Dust" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Interactive\Zone\BasicZone" />
+     <Folder Include="Assets\Epic Toon FX\Textures\Text" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Muzzleflash\- Misc" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\Shared\Environment" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\TutorialInfo\Icons" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Muzzleflash\EnergyNovaMuzzle" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Misc Effects\Materials" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Confetti" />
+     <Folder Include="Assets\Epic Toon FX\Demo" />
+     <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+     <Folder Include="Assets\Tree9\Materials" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Missiles\Liquid" />
+     <Folder Include="Assets\Epic Toon FX\Demo\Missile Prefabs\Sparkle" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Explosions\NukeVerticalExplosion" />
+     <Folder Include="Assets\Sand textures pack\Sand 05" />
+     <Folder Include="Assets\Epic Toon FX\Demo\Missile Prefabs\Fireball" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Weapon Effects\Textures" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Nova\Standard" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Muzzleflash\LiquidMuzzle" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Muzzleflash\FireballMuzzle" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Missiles\Gas" />
+     <Folder Include="Assets\Epic Toon FX\Demo\Missile Prefabs\MagicSoft" />
+     <Folder Include="Assets\Epic Toon FX\Materials\Misc\Cards" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Decals\Explosion Decal" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Water\Flowing" />
+     <Folder Include="Assets\Road props for games\Materials" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Explosions\StarExplosion" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Fog\Grey" />
+     <Folder Include="Assets\Epic Toon FX\Demo\Scenes\Extras" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Bubbles" />
+     <Folder Include="Assets\Road props for games\Textures\2k" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Brawling\Soft" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Interactive\Healing" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Smoke &amp; Steam Effects\Prefabs" />
+     <Folder Include="Assets\Epic Toon FX\Textures" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Decals\Energy Decal" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Interactive\Portals\WavePortal" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Magic\Circle Simple" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Fire\Candle" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs 2D\Blood\Red" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\Shared\Ramps" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Flamethrower\Soft\Additive" />
+     <Folder Include="Assets\Epic Toon FX\Demo\Demo Prefabs" />
+     <Folder Include="Assets\_Game\Models" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Stars\StarFog" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Sword\Slash\SwordSlashMini" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Flamethrower\Soft\Alpha Blend" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Muzzleflash\BulletMuzzle" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Missiles\Shadow" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\EffectExamples" />
+     <Folder Include="Assets\Epic Toon FX\Demo\Animation" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Muzzleflash\GrenadeMuzzle" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Explosions\FrostExplosion" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Death" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Explosions\BulletFatExplosion" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Magic\PillarBlast" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Muzzleflash\MysticMuzzle" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Fire &amp; Explosion Effects" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Fire\Candle\CandleLightSoft" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Smoke\Dark" />
+     <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Fire\Soft" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Interactive\Powerups\PowerupActivate" />
+     <Folder Include="Assets\Epic Toon FX\Demo\Missile Prefabs\BulletFat" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Blood\Yellow" />
+     <None Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Misc Effects\Shaders\FireFly.shader" />
+     <Folder Include="Assets\Sand textures pack\Sand 06" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Misc Effects\Prefabs" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Explosions\SmallExplosion" />
+     <Folder Include="Assets\Epic Toon FX\Materials\Misc\Portals" />
+     <Folder Include="Assets\Epic Toon FX\Upgrade" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Interactive\Powerups\PowerupGlow" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Misc Effects" />
+     <Folder Include="Assets\Tree9\Tree9_1_Textures" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Misc Effects\Scripts" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Interactive\Loot\ItemSparkle" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Sword\Slash\SwordSlashThick" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Fire\Candle\CandleLight" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Fire\Cartoon" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\Shared\Scripts" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Magic" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Muzzleflash\StormMuzzle" />
+     <Folder Include="Assets\_Game\Models\Remy\textures" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Explosions\NovaExplosion" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Nova\Lightning" />
+     <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Flamethrower\Spiky" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\Shared\Sprites" />
+     <Folder Include="Assets\Epic Toon FX\Demo\Scenes" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Missiles\Frost" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack" />
+     <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Fire\Soft\SoftFireBig" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Explosions\GasExplosion" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Fog\Black" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Fire\Soft\SoftTallFire" />
+     <Folder Include="Assets\Epic Toon FX\Textures\Emojis" />
+     <Folder Include="Assets\Road props for games\Textures\512" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\Scenes" />
+     <Folder Include="Assets\_Game\Scenes" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Death\Souls" />
+     <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Missiles\Grenade" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Sword\- Legacy" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Missiles\Storm" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Magic\Charge" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Interactive\Flares\Soft" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Documentation" />
+     <Folder Include="Assets\Epic Toon FX\Scripts" />
+     <Folder Include="Assets\Sand textures pack\Sand 04" />
+     <Folder Include="Assets\Epic Toon FX\Demo\Demo Prefabs\VFX Library" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Water Effects\Models" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Fire\Cartoon\Torch" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Interactive\Loot\ItemSparkleSoft" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Weather\Snow" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Missiles\Lightning" />
+     <Folder Include="Assets\Epic Toon FX\Materials\Misc\Lightning" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\Shared\Environment\Materials" />
+     <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Muzzleflash\MagicMuzzle" />
+     <Folder Include="Assets\Road props for games\Textures" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Brawling\RoundHit" />
+     <Folder Include="Assets\Epic Toon FX\Materials\Misc" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Fire\Trails" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Water Effects\Materials" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Interactive\Money" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Blood\Red" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Sword\- Legacy\SwordHitCriticalLegacy" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Magic Effects\Shaders" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Misc Effects\Shaders" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Stars\StarVortex" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Smoke &amp; Steam Effects\Materials" />
+     <None Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Misc Effects\Shaders\Dissolve.shader" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Sparks" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Fire &amp; Explosion Effects\Prefabs" />
+     <Folder Include="Assets\Epic Toon FX\Demo\Missile Prefabs\Rocket" />
+     <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_Sprite.shader" />
+     <Folder Include="Assets\Road props for games\Documentation" />
+     <Folder Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Smoke &amp; Steam Effects\Models" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Fire\Spiky" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Combat\Text" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Interactive\Zone\BasicZoneWall" />
+     <Folder Include="Assets\Sand textures pack\Sand 08" />
+     <Folder Include="Assets\Epic Toon FX\Prefabs\Interactive\Powerups\PowerOrbSciFi" />
+     <Folder Include="Assets\UnityTechnologies" />
+     <Folder Include="Assets\_Game\Models\Remy" />
      <Reference Include="UnityEngine">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.19f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
      </Reference>
@@ -299,10 +740,10 @@
      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.19f1\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-     <HintPath>D:\Apps\unity\HoangVuPrj\First3d\Library\PackageCache\com.unity.visualscripting@1.8.0\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+     <HintPath>D:\Apps\unity\HoangVuPrj\Temple Run\Library\PackageCache\com.unity.visualscripting@1.8.0\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="ReportGeneratorMerged">
-     <HintPath>D:\Apps\unity\HoangVuPrj\First3d\Library\PackageCache\com.unity.testtools.codecoverage@1.2.2\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
+     <HintPath>D:\Apps\unity\HoangVuPrj\Temple Run\Library\PackageCache\com.unity.testtools.codecoverage@1.2.2\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Android.Types">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.19f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.Types.dll</HintPath>
@@ -677,73 +1118,79 @@
      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.19f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Xml.Serialization.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Flow.Editor">
-     <HintPath>D:\Apps\unity\HoangVuPrj\First3d\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
+     <HintPath>D:\Apps\unity\HoangVuPrj\Temple Run\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VSCode.Editor">
-     <HintPath>D:\Apps\unity\HoangVuPrj\First3d\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
+     <HintPath>D:\Apps\unity\HoangVuPrj\Temple Run\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Postprocessing.Runtime">
+     <HintPath>D:\Apps\unity\HoangVuPrj\Temple Run\Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Shared.Editor">
-     <HintPath>D:\Apps\unity\HoangVuPrj\First3d\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
+     <HintPath>D:\Apps\unity\HoangVuPrj\Temple Run\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TextMeshPro.Editor">
-     <HintPath>D:\Apps\unity\HoangVuPrj\First3d\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
+     <HintPath>D:\Apps\unity\HoangVuPrj\Temple Run\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualStudio.Editor">
-     <HintPath>D:\Apps\unity\HoangVuPrj\First3d\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
+     <HintPath>D:\Apps\unity\HoangVuPrj\Temple Run\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Performance.Profile-Analyzer.Editor">
-     <HintPath>D:\Apps\unity\HoangVuPrj\First3d\Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
+     <HintPath>D:\Apps\unity\HoangVuPrj\Temple Run\Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model">
-     <HintPath>D:\Apps\unity\HoangVuPrj\First3d\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
+     <HintPath>D:\Apps\unity\HoangVuPrj\Temple Run\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Timeline.Editor">
-     <HintPath>D:\Apps\unity\HoangVuPrj\First3d\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
+     <HintPath>D:\Apps\unity\HoangVuPrj\Temple Run\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Timeline">
-     <HintPath>D:\Apps\unity\HoangVuPrj\First3d\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
+     <HintPath>D:\Apps\unity\HoangVuPrj\Temple Run\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Core.Editor">
-     <HintPath>D:\Apps\unity\HoangVuPrj\First3d\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll</HintPath>
+     <HintPath>D:\Apps\unity\HoangVuPrj\Temple Run\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TextMeshPro">
-     <HintPath>D:\Apps\unity\HoangVuPrj\First3d\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
+     <HintPath>D:\Apps\unity\HoangVuPrj\Temple Run\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.State.Editor">
-     <HintPath>D:\Apps\unity\HoangVuPrj\First3d\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
+     <HintPath>D:\Apps\unity\HoangVuPrj\Temple Run\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
-     <HintPath>D:\Apps\unity\HoangVuPrj\First3d\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
+     <HintPath>D:\Apps\unity\HoangVuPrj\Temple Run\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection">
-     <HintPath>D:\Apps\unity\HoangVuPrj\First3d\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
+     <HintPath>D:\Apps\unity\HoangVuPrj\Temple Run\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.VisualScripting.Flow">
-     <HintPath>D:\Apps\unity\HoangVuPrj\First3d\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
+     <Reference Include="Unity.Postprocessing.Editor">
+     <HintPath>D:\Apps\unity\HoangVuPrj\Temple Run\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.UI">
-     <HintPath>D:\Apps\unity\HoangVuPrj\First3d\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
+     <HintPath>D:\Apps\unity\HoangVuPrj\Temple Run\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
      </Reference>
      <Reference Include="Unity.PlasticSCM.Editor">
-     <HintPath>D:\Apps\unity\HoangVuPrj\First3d\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
+     <HintPath>D:\Apps\unity\HoangVuPrj\Temple Run\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Rider.Editor">
-     <HintPath>D:\Apps\unity\HoangVuPrj\First3d\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
+     <HintPath>D:\Apps\unity\HoangVuPrj\Temple Run\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TestTools.CodeCoverage.Editor">
-     <HintPath>D:\Apps\unity\HoangVuPrj\First3d\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
+     <HintPath>D:\Apps\unity\HoangVuPrj\Temple Run\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.UI">
-     <HintPath>D:\Apps\unity\HoangVuPrj\First3d\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+     <HintPath>D:\Apps\unity\HoangVuPrj\Temple Run\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.VisualScripting.Flow">
+     <HintPath>D:\Apps\unity\HoangVuPrj\Temple Run\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.State">
-     <HintPath>D:\Apps\unity\HoangVuPrj\First3d\Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
+     <HintPath>D:\Apps\unity\HoangVuPrj\Temple Run\Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Core">
-     <HintPath>D:\Apps\unity\HoangVuPrj\First3d\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
+     <HintPath>D:\Apps\unity\HoangVuPrj\Temple Run\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
      </Reference>
      <Reference Include="Unity.EditorCoroutines.Editor">
-     <HintPath>D:\Apps\unity\HoangVuPrj\First3d\Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll</HintPath>
+     <HintPath>D:\Apps\unity\HoangVuPrj\Temple Run\Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll</HintPath>
      </Reference>
   </ItemGroup>
   <ItemGroup>
